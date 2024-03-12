@@ -1,0 +1,1828 @@
+1710166018: mosquitto version 2.0.18 starting
+1710166018: Config loaded from /mosquitto/config/mosquitto.conf.
+1710166018: Opening ipv4 listen socket on port 1883.
+1710166018: Opening ipv6 listen socket on port 1883.
+1710166018: mosquitto version 2.0.18 running
+1710167683: New connection from 172.19.0.3:42211 on port 1883.
+1710167683: New client connected from 172.19.0.3:42211 as auto-F4E12C9C-98FA-39BD-8A9A-44317E88B69D (p2, c1, k60).
+1710167819: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710169238: New connection from 172.19.0.1:40582 on port 1883.
+1710169238: New client connected from 172.19.0.1:40582 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710169373: Client mqtt-explorer-01888b35 disconnected.
+1710169388: New connection from 172.19.0.1:55640 on port 1883.
+1710169388: New client connected from 172.19.0.1:55640 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710169593: Client mqtt-explorer-01888b35 disconnected.
+1710169620: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710170167: Client auto-F4E12C9C-98FA-39BD-8A9A-44317E88B69D closed its connection.
+1710170173: New connection from 172.19.0.3:60917 on port 1883.
+1710170173: New client connected from 172.19.0.3:60917 as auto-3BE81B1B-B67D-CEE4-52F2-2D1F3CEA1BF8 (p2, c1, k60).
+1710170181: New connection from 172.19.0.1:50020 on port 1883.
+1710170181: New client connected from 172.19.0.1:50020 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710170326: Client mqtt-explorer-01888b35 disconnected.
+1710170467: New connection from 172.19.0.1:38374 on port 1883.
+1710170467: New client connected from 172.19.0.1:38374 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710171421: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710173222: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710173687: Client auto-3BE81B1B-B67D-CEE4-52F2-2D1F3CEA1BF8 closed its connection.
+1710173692: New connection from 172.19.0.3:33999 on port 1883.
+1710173692: New client connected from 172.19.0.3:33999 as auto-8501CA26-2815-7A5D-059C-8A37BB49F35A (p2, c1, k60).
+1710174396: Client auto-8501CA26-2815-7A5D-059C-8A37BB49F35A closed its connection.
+1710174403: New connection from 172.19.0.3:58475 on port 1883.
+1710174403: New client connected from 172.19.0.3:58475 as auto-BCC2AAAD-723B-C094-1B28-06ACEC51B424 (p2, c1, k60).
+1710174888: Client auto-BCC2AAAD-723B-C094-1B28-06ACEC51B424 closed its connection.
+1710174894: New connection from 172.19.0.3:59397 on port 1883.
+1710174894: New client connected from 172.19.0.3:59397 as auto-2BF2348C-EABF-4319-7AA5-914FC612DEDE (p2, c1, k60).
+1710175023: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710176824: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710177327: Client mqtt-explorer-01888b35 disconnected.
+1710177408: Client auto-2BF2348C-EABF-4319-7AA5-914FC612DEDE closed its connection.
+1710177413: New connection from 172.19.0.3:58277 on port 1883.
+1710177413: New client connected from 172.19.0.3:58277 as auto-155EC18D-75EB-EAB2-5366-46C75379ADDC (p2, c1, k60).
+1710178625: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710179743: New connection from 172.19.0.1:57720 on port 1883.
+1710179743: New client connected from 172.19.0.1:57720 as auto-70CA5B6F-2641-D5C8-1BE6-F1A7B4417EC6 (p2, c1, k60).
+1710179743: Client auto-70CA5B6F-2641-D5C8-1BE6-F1A7B4417EC6 closed its connection.
+1710180426: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710180820: Client auto-155EC18D-75EB-EAB2-5366-46C75379ADDC closed its connection.
+1710180828: New connection from 172.19.0.3:43429 on port 1883.
+1710180828: New client connected from 172.19.0.3:43429 as auto-A2FB942A-D32A-EBED-621F-1AEA61CB42F9 (p2, c1, k60).
+1710182227: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710184028: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710184651: Client auto-A2FB942A-D32A-EBED-621F-1AEA61CB42F9 closed its connection.
+1710184661: New connection from 172.19.0.3:38353 on port 1883.
+1710184661: New client connected from 172.19.0.3:38353 as auto-55306D63-0795-33A5-8F10-847C85B74C7C (p2, c1, k60).
+1710185192: Client auto-55306D63-0795-33A5-8F10-847C85B74C7C closed its connection.
+1710185200: New connection from 172.19.0.3:57225 on port 1883.
+1710185200: New client connected from 172.19.0.3:57225 as auto-EB79FE40-10D9-2B23-AA74-58AD168676B2 (p2, c1, k60).
+1710185507: Client auto-EB79FE40-10D9-2B23-AA74-58AD168676B2 closed its connection.
+1710185517: New connection from 172.19.0.3:50797 on port 1883.
+1710185517: New client connected from 172.19.0.3:50797 as auto-CDE46BF5-6B6F-6C12-79A6-CAB2E533F02A (p2, c1, k60).
+1710185724: Client auto-CDE46BF5-6B6F-6C12-79A6-CAB2E533F02A closed its connection.
+1710185730: New connection from 172.19.0.3:57419 on port 1883.
+1710185730: New client connected from 172.19.0.3:57419 as auto-FD1FF4B2-0685-1D8A-F78A-E5E8CBF579DB (p2, c1, k60).
+1710185829: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710186580: Client auto-FD1FF4B2-0685-1D8A-F78A-E5E8CBF579DB closed its connection.
+1710186588: New connection from 172.19.0.3:36437 on port 1883.
+1710186588: New client connected from 172.19.0.3:36437 as auto-9E6C2593-5BB2-4FBA-9275-43371127AC72 (p2, c1, k60).
+1710186882: Client auto-9E6C2593-5BB2-4FBA-9275-43371127AC72 closed its connection.
+1710186892: New connection from 172.19.0.3:45661 on port 1883.
+1710186892: New client connected from 172.19.0.3:45661 as auto-C7D3C2C0-9EC5-ECBD-7673-C96CF0C8F97C (p2, c1, k60).
+1710187251: Client auto-C7D3C2C0-9EC5-ECBD-7673-C96CF0C8F97C closed its connection.
+1710187258: New connection from 172.19.0.3:60499 on port 1883.
+1710187258: New client connected from 172.19.0.3:60499 as auto-15D4847D-BC67-2977-A0A5-FCF865DD057B (p2, c1, k60).
+1710187433: Client auto-15D4847D-BC67-2977-A0A5-FCF865DD057B closed its connection.
+1710187440: New connection from 172.19.0.3:50623 on port 1883.
+1710187440: New client connected from 172.19.0.3:50623 as auto-E1273658-8E50-3379-2223-79114BD6828A (p2, c1, k60).
+1710187630: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710187702: Client auto-E1273658-8E50-3379-2223-79114BD6828A closed its connection.
+1710187708: New connection from 172.19.0.3:51357 on port 1883.
+1710187708: New client connected from 172.19.0.3:51357 as auto-FCAB2622-CDB9-2D47-9D35-CB80F58A9817 (p2, c1, k60).
+1710187909: Client auto-FCAB2622-CDB9-2D47-9D35-CB80F58A9817 closed its connection.
+1710187915: New connection from 172.19.0.3:55767 on port 1883.
+1710187915: New client connected from 172.19.0.3:55767 as auto-0F4C9377-C9BC-45F3-FDE3-FF378B3F3F16 (p2, c1, k60).
+1710188062: Client auto-0F4C9377-C9BC-45F3-FDE3-FF378B3F3F16 closed its connection.
+1710188069: New connection from 172.19.0.3:55149 on port 1883.
+1710188069: New client connected from 172.19.0.3:55149 as auto-1282CCF3-76C4-F25E-C88A-8946D67FEFC3 (p2, c1, k60).
+1710188127: Client auto-1282CCF3-76C4-F25E-C88A-8946D67FEFC3 closed its connection.
+1710188134: New connection from 172.19.0.3:48215 on port 1883.
+1710188134: New client connected from 172.19.0.3:48215 as auto-F40EE19E-105E-5FC5-06A3-747BB6886A27 (p2, c1, k60).
+1710188255: Client auto-F40EE19E-105E-5FC5-06A3-747BB6886A27 closed its connection.
+1710188261: New connection from 172.19.0.3:41669 on port 1883.
+1710188261: New client connected from 172.19.0.3:41669 as auto-47EE26C6-879E-6D0D-2A02-E34FB75CFF5B (p2, c1, k60).
+1710188432: Client auto-47EE26C6-879E-6D0D-2A02-E34FB75CFF5B closed its connection.
+1710188439: New connection from 172.19.0.3:51191 on port 1883.
+1710188439: New client connected from 172.19.0.3:51191 as auto-7BF0DC40-06FD-76F2-BD4F-297B214817DE (p2, c1, k60).
+1710188795: Client auto-7BF0DC40-06FD-76F2-BD4F-297B214817DE closed its connection.
+1710188799: New connection from 172.19.0.3:39183 on port 1883.
+1710188799: New client connected from 172.19.0.3:39183 as auto-73486B85-12B0-0906-1345-F54F432BFF8E (p2, c1, k60).
+1710188926: Client auto-73486B85-12B0-0906-1345-F54F432BFF8E closed its connection.
+1710188931: New connection from 172.19.0.3:38637 on port 1883.
+1710188931: New client connected from 172.19.0.3:38637 as auto-CEDEEE02-FC84-24C5-6F36-977C1D88ED28 (p2, c1, k60).
+1710189431: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710189483: Client auto-CEDEEE02-FC84-24C5-6F36-977C1D88ED28 closed its connection.
+1710189491: New connection from 172.19.0.3:44693 on port 1883.
+1710189491: New client connected from 172.19.0.3:44693 as auto-D67F4D15-B1C8-008F-0F3B-6AB2C329C73C (p2, c1, k60).
+1710189631: New connection from 172.19.0.1:60300 on port 1883.
+1710189631: New client connected from 172.19.0.1:60300 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710230950: Client mqtt-explorer-01888b35 disconnected.
+1710230955: New connection from 172.19.0.1:43636 on port 1883.
+1710230955: Client <unknown> disconnected due to protocol error.
+1710230956: New connection from 172.19.0.1:43648 on port 1883.
+1710230956: Client <unknown> disconnected due to protocol error.
+1710230961: New connection from 172.19.0.1:43664 on port 1883.
+1710230961: New client connected from 172.19.0.1:43664 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710230965: Client mqtt-explorer-01888b35 disconnected.
+1710232376: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710234177: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710234428: Client auto-D67F4D15-B1C8-008F-0F3B-6AB2C329C73C closed its connection.
+1710234439: New connection from 172.19.0.3:37511 on port 1883.
+1710234439: New client connected from 172.19.0.3:37511 as auto-AB9E5FAD-5241-C931-B5A0-A8FDF5A777FE (p2, c1, k60).
+1710234478: New connection from 172.19.0.1:33118 on port 1883.
+1710234478: New client connected from 172.19.0.1:33118 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710234634: Client mqtt-explorer-01888b35 disconnected.
+1710235784: Client auto-AB9E5FAD-5241-C931-B5A0-A8FDF5A777FE closed its connection.
+1710235806: New connection from 172.19.0.3:54361 on port 1883.
+1710235806: New client connected from 172.19.0.3:54361 as auto-75BE9272-BC72-C32C-3D7F-CCCF66125FE4 (p2, c1, k60).
+1710235845: New connection from 172.19.0.1:36098 on port 1883.
+1710235845: New client connected from 172.19.0.1:36098 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235845: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235846: New connection from 172.19.0.1:36100 on port 1883.
+1710235846: New client connected from 172.19.0.1:36100 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235846: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235847: New connection from 172.19.0.1:36104 on port 1883.
+1710235847: New client connected from 172.19.0.1:36104 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235847: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235848: New connection from 172.19.0.1:36106 on port 1883.
+1710235848: New client connected from 172.19.0.1:36106 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235848: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235849: New connection from 172.19.0.1:36114 on port 1883.
+1710235849: New client connected from 172.19.0.1:36114 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235849: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235850: New connection from 172.19.0.1:36128 on port 1883.
+1710235850: New client connected from 172.19.0.1:36128 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235850: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235852: New connection from 172.19.0.1:36144 on port 1883.
+1710235852: New client connected from 172.19.0.1:36144 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235852: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235853: New connection from 172.19.0.1:36156 on port 1883.
+1710235853: New client connected from 172.19.0.1:36156 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235853: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235854: New connection from 172.19.0.1:36172 on port 1883.
+1710235854: New client connected from 172.19.0.1:36172 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235854: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235855: New connection from 172.19.0.1:48324 on port 1883.
+1710235855: New client connected from 172.19.0.1:48324 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235855: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235856: New connection from 172.19.0.1:48338 on port 1883.
+1710235856: New client connected from 172.19.0.1:48338 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235856: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235857: New connection from 172.19.0.1:48350 on port 1883.
+1710235857: New client connected from 172.19.0.1:48350 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235857: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235858: New connection from 172.19.0.1:48360 on port 1883.
+1710235858: New client connected from 172.19.0.1:48360 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235858: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235859: New connection from 172.19.0.1:48376 on port 1883.
+1710235859: New client connected from 172.19.0.1:48376 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235859: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235860: New connection from 172.19.0.1:48380 on port 1883.
+1710235860: New client connected from 172.19.0.1:48380 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235860: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235861: New connection from 172.19.0.1:48384 on port 1883.
+1710235861: New client connected from 172.19.0.1:48384 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235861: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235862: New connection from 172.19.0.1:48388 on port 1883.
+1710235862: New client connected from 172.19.0.1:48388 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235862: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235863: New connection from 172.19.0.1:48394 on port 1883.
+1710235863: New client connected from 172.19.0.1:48394 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235863: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235864: New connection from 172.19.0.1:52968 on port 1883.
+1710235864: New client connected from 172.19.0.1:52968 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235864: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235865: New connection from 172.19.0.1:52978 on port 1883.
+1710235865: New client connected from 172.19.0.1:52978 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235865: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235866: New connection from 172.19.0.1:52990 on port 1883.
+1710235866: New client connected from 172.19.0.1:52990 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235866: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235867: New connection from 172.19.0.1:53004 on port 1883.
+1710235867: New client connected from 172.19.0.1:53004 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235867: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235868: New connection from 172.19.0.1:53018 on port 1883.
+1710235868: New client connected from 172.19.0.1:53018 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235868: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235870: New connection from 172.19.0.1:53026 on port 1883.
+1710235870: New client connected from 172.19.0.1:53026 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235870: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235871: New connection from 172.19.0.1:53028 on port 1883.
+1710235871: New client connected from 172.19.0.1:53028 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235871: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235872: New connection from 172.19.0.1:53032 on port 1883.
+1710235872: New client connected from 172.19.0.1:53032 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235872: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235873: New connection from 172.19.0.1:53046 on port 1883.
+1710235873: New client connected from 172.19.0.1:53046 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235873: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235874: New connection from 172.19.0.1:53058 on port 1883.
+1710235874: New client connected from 172.19.0.1:53058 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235874: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235875: New connection from 172.19.0.1:59984 on port 1883.
+1710235875: New client connected from 172.19.0.1:59984 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235875: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235876: New connection from 172.19.0.1:59994 on port 1883.
+1710235876: New client connected from 172.19.0.1:59994 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235876: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235877: New connection from 172.19.0.1:60006 on port 1883.
+1710235877: New client connected from 172.19.0.1:60006 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235877: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235878: New connection from 172.19.0.1:60020 on port 1883.
+1710235878: New client connected from 172.19.0.1:60020 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235878: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235879: New connection from 172.19.0.1:60026 on port 1883.
+1710235879: New client connected from 172.19.0.1:60026 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235879: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235880: New connection from 172.19.0.1:60034 on port 1883.
+1710235880: New client connected from 172.19.0.1:60034 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235880: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235881: New connection from 172.19.0.1:60036 on port 1883.
+1710235881: New client connected from 172.19.0.1:60036 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235881: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235882: New connection from 172.19.0.1:60048 on port 1883.
+1710235882: New client connected from 172.19.0.1:60048 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235882: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235883: New connection from 172.19.0.1:60050 on port 1883.
+1710235883: New client connected from 172.19.0.1:60050 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235883: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235884: New connection from 172.19.0.1:43674 on port 1883.
+1710235884: New client connected from 172.19.0.1:43674 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235884: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235885: New connection from 172.19.0.1:43686 on port 1883.
+1710235885: New client connected from 172.19.0.1:43686 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235885: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235886: New connection from 172.19.0.1:43694 on port 1883.
+1710235886: New client connected from 172.19.0.1:43694 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235886: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235887: New connection from 172.19.0.1:43710 on port 1883.
+1710235887: New client connected from 172.19.0.1:43710 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235887: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235888: New connection from 172.19.0.1:43722 on port 1883.
+1710235888: New client connected from 172.19.0.1:43722 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235888: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235889: New connection from 172.19.0.1:43730 on port 1883.
+1710235889: New client connected from 172.19.0.1:43730 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235889: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235890: New connection from 172.19.0.1:43732 on port 1883.
+1710235890: New client connected from 172.19.0.1:43732 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235890: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235891: New connection from 172.19.0.1:43734 on port 1883.
+1710235891: New client connected from 172.19.0.1:43734 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235891: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235892: New connection from 172.19.0.1:43742 on port 1883.
+1710235892: New client connected from 172.19.0.1:43742 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235892: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235893: New connection from 172.19.0.1:43758 on port 1883.
+1710235893: New client connected from 172.19.0.1:43758 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235894: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235895: New connection from 172.19.0.1:48348 on port 1883.
+1710235895: New client connected from 172.19.0.1:48348 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235895: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235896: New connection from 172.19.0.1:48358 on port 1883.
+1710235896: New client connected from 172.19.0.1:48358 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235896: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235897: New connection from 172.19.0.1:48362 on port 1883.
+1710235897: New client connected from 172.19.0.1:48362 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235897: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235898: New connection from 172.19.0.1:48364 on port 1883.
+1710235898: New client connected from 172.19.0.1:48364 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235898: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235899: New connection from 172.19.0.1:48376 on port 1883.
+1710235899: New client connected from 172.19.0.1:48376 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235899: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235900: New connection from 172.19.0.1:48388 on port 1883.
+1710235900: New client connected from 172.19.0.1:48388 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235900: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235901: New connection from 172.19.0.1:48398 on port 1883.
+1710235901: New client connected from 172.19.0.1:48398 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235901: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235902: New connection from 172.19.0.1:48400 on port 1883.
+1710235902: New client connected from 172.19.0.1:48400 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235902: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235903: New connection from 172.19.0.1:48408 on port 1883.
+1710235903: New client connected from 172.19.0.1:48408 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235903: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235904: New connection from 172.19.0.1:48414 on port 1883.
+1710235904: New client connected from 172.19.0.1:48414 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235904: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235905: New connection from 172.19.0.1:38760 on port 1883.
+1710235905: New client connected from 172.19.0.1:38760 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235905: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235906: New connection from 172.19.0.1:38770 on port 1883.
+1710235906: New client connected from 172.19.0.1:38770 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235906: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235907: New connection from 172.19.0.1:38776 on port 1883.
+1710235907: New client connected from 172.19.0.1:38776 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235907: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235908: New connection from 172.19.0.1:38784 on port 1883.
+1710235908: New client connected from 172.19.0.1:38784 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235908: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235909: New connection from 172.19.0.1:38798 on port 1883.
+1710235909: New client connected from 172.19.0.1:38798 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235909: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235910: New connection from 172.19.0.1:38800 on port 1883.
+1710235910: New client connected from 172.19.0.1:38800 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235910: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235911: New connection from 172.19.0.1:38808 on port 1883.
+1710235911: New client connected from 172.19.0.1:38808 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235911: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235912: New connection from 172.19.0.1:38822 on port 1883.
+1710235912: New client connected from 172.19.0.1:38822 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235912: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235913: New connection from 172.19.0.1:38836 on port 1883.
+1710235913: New client connected from 172.19.0.1:38836 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235913: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235914: New connection from 172.19.0.1:39584 on port 1883.
+1710235914: New client connected from 172.19.0.1:39584 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235914: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235915: New connection from 172.19.0.1:39598 on port 1883.
+1710235915: New client connected from 172.19.0.1:39598 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235915: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235916: New connection from 172.19.0.1:39600 on port 1883.
+1710235916: New client connected from 172.19.0.1:39600 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235916: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235917: New connection from 172.19.0.1:39604 on port 1883.
+1710235917: New client connected from 172.19.0.1:39604 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235917: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235918: New connection from 172.19.0.1:39618 on port 1883.
+1710235919: New client connected from 172.19.0.1:39618 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235919: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235920: New connection from 172.19.0.1:39628 on port 1883.
+1710235920: New client connected from 172.19.0.1:39628 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235920: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235921: New connection from 172.19.0.1:39642 on port 1883.
+1710235921: New client connected from 172.19.0.1:39642 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235921: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235922: New connection from 172.19.0.1:39658 on port 1883.
+1710235922: New client connected from 172.19.0.1:39658 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235922: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235923: New connection from 172.19.0.1:39670 on port 1883.
+1710235923: New client connected from 172.19.0.1:39670 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235923: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235924: New connection from 172.19.0.1:39686 on port 1883.
+1710235924: New client connected from 172.19.0.1:39686 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235924: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235925: New connection from 172.19.0.1:48018 on port 1883.
+1710235925: New client connected from 172.19.0.1:48018 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235925: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235926: New connection from 172.19.0.1:48028 on port 1883.
+1710235926: New client connected from 172.19.0.1:48028 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235926: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235927: New connection from 172.19.0.1:48032 on port 1883.
+1710235927: New client connected from 172.19.0.1:48032 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235927: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235928: New connection from 172.19.0.1:48048 on port 1883.
+1710235928: New client connected from 172.19.0.1:48048 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235928: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235929: New connection from 172.19.0.1:48052 on port 1883.
+1710235929: New client connected from 172.19.0.1:48052 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235929: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235930: New connection from 172.19.0.1:48058 on port 1883.
+1710235930: New client connected from 172.19.0.1:48058 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235930: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235931: New connection from 172.19.0.1:48074 on port 1883.
+1710235931: New client connected from 172.19.0.1:48074 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235931: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235932: New connection from 172.19.0.1:48080 on port 1883.
+1710235932: New client connected from 172.19.0.1:48080 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235932: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235933: New connection from 172.19.0.1:48092 on port 1883.
+1710235933: New client connected from 172.19.0.1:48092 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235933: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235934: New connection from 172.19.0.1:44078 on port 1883.
+1710235934: New client connected from 172.19.0.1:44078 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235934: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235935: New connection from 172.19.0.1:44080 on port 1883.
+1710235935: New client connected from 172.19.0.1:44080 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235935: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235936: New connection from 172.19.0.1:44090 on port 1883.
+1710235936: New client connected from 172.19.0.1:44090 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235936: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235937: New connection from 172.19.0.1:44092 on port 1883.
+1710235937: New client connected from 172.19.0.1:44092 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235937: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235938: New connection from 172.19.0.1:44106 on port 1883.
+1710235938: New client connected from 172.19.0.1:44106 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235938: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235939: New connection from 172.19.0.1:44118 on port 1883.
+1710235939: New client connected from 172.19.0.1:44118 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235939: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235940: New connection from 172.19.0.1:44120 on port 1883.
+1710235940: New client connected from 172.19.0.1:44120 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235941: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235942: New connection from 172.19.0.1:44134 on port 1883.
+1710235942: New client connected from 172.19.0.1:44134 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235942: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235943: New connection from 172.19.0.1:44142 on port 1883.
+1710235943: New client connected from 172.19.0.1:44142 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235943: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235944: New connection from 172.19.0.1:44150 on port 1883.
+1710235944: New client connected from 172.19.0.1:44150 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235944: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235945: New connection from 172.19.0.1:36928 on port 1883.
+1710235945: New client connected from 172.19.0.1:36928 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235945: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235946: New connection from 172.19.0.1:36940 on port 1883.
+1710235946: New client connected from 172.19.0.1:36940 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235946: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235947: New connection from 172.19.0.1:36952 on port 1883.
+1710235947: New client connected from 172.19.0.1:36952 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235947: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235948: New connection from 172.19.0.1:36966 on port 1883.
+1710235948: New client connected from 172.19.0.1:36966 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235948: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235949: New connection from 172.19.0.1:36976 on port 1883.
+1710235949: New client connected from 172.19.0.1:36976 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235949: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235950: New connection from 172.19.0.1:36984 on port 1883.
+1710235950: New client connected from 172.19.0.1:36984 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235950: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235951: New connection from 172.19.0.1:37000 on port 1883.
+1710235951: New client connected from 172.19.0.1:37000 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235951: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235952: New connection from 172.19.0.1:37014 on port 1883.
+1710235952: New client connected from 172.19.0.1:37014 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235952: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235953: New connection from 172.19.0.1:37018 on port 1883.
+1710235953: New client connected from 172.19.0.1:37018 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235953: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235954: New connection from 172.19.0.1:37028 on port 1883.
+1710235954: New client connected from 172.19.0.1:37028 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235954: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235955: New connection from 172.19.0.1:47334 on port 1883.
+1710235955: New client connected from 172.19.0.1:47334 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235955: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235956: New connection from 172.19.0.1:47338 on port 1883.
+1710235956: New client connected from 172.19.0.1:47338 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235956: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235957: New connection from 172.19.0.1:47344 on port 1883.
+1710235957: New client connected from 172.19.0.1:47344 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235957: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235958: New connection from 172.19.0.1:47350 on port 1883.
+1710235958: New client connected from 172.19.0.1:47350 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235958: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235959: New connection from 172.19.0.1:47362 on port 1883.
+1710235959: New client connected from 172.19.0.1:47362 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235959: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235960: New connection from 172.19.0.1:47370 on port 1883.
+1710235960: New client connected from 172.19.0.1:47370 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235960: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235962: New connection from 172.19.0.1:47376 on port 1883.
+1710235962: New client connected from 172.19.0.1:47376 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235962: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235963: New connection from 172.19.0.1:47390 on port 1883.
+1710235963: New client connected from 172.19.0.1:47390 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235963: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235964: New connection from 172.19.0.1:47400 on port 1883.
+1710235964: New client connected from 172.19.0.1:47400 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235964: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235965: New connection from 172.19.0.1:53852 on port 1883.
+1710235965: New client connected from 172.19.0.1:53852 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235965: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235966: New connection from 172.19.0.1:53860 on port 1883.
+1710235966: New client connected from 172.19.0.1:53860 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235966: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235967: New connection from 172.19.0.1:53872 on port 1883.
+1710235967: New client connected from 172.19.0.1:53872 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235967: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235968: New connection from 172.19.0.1:53880 on port 1883.
+1710235968: New client connected from 172.19.0.1:53880 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235968: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235969: New connection from 172.19.0.1:53892 on port 1883.
+1710235969: New client connected from 172.19.0.1:53892 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235969: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235970: New connection from 172.19.0.1:53908 on port 1883.
+1710235970: New client connected from 172.19.0.1:53908 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235970: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235971: New connection from 172.19.0.1:53922 on port 1883.
+1710235971: New client connected from 172.19.0.1:53922 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235971: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235972: New connection from 172.19.0.1:53934 on port 1883.
+1710235972: New client connected from 172.19.0.1:53934 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235972: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235973: New connection from 172.19.0.1:53936 on port 1883.
+1710235973: New client connected from 172.19.0.1:53936 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235973: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235974: New connection from 172.19.0.1:53948 on port 1883.
+1710235974: New client connected from 172.19.0.1:53948 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235974: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235975: New connection from 172.19.0.1:54128 on port 1883.
+1710235975: New client connected from 172.19.0.1:54128 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235975: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235976: New connection from 172.19.0.1:54132 on port 1883.
+1710235976: New client connected from 172.19.0.1:54132 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235976: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235977: New connection from 172.19.0.1:54144 on port 1883.
+1710235977: New client connected from 172.19.0.1:54144 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235977: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235978: New connection from 172.19.0.1:54158 on port 1883.
+1710235978: New client connected from 172.19.0.1:54158 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235978: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235978: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710235979: New connection from 172.19.0.1:54162 on port 1883.
+1710235979: New client connected from 172.19.0.1:54162 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235979: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235980: New connection from 172.19.0.1:54168 on port 1883.
+1710235980: New client connected from 172.19.0.1:54168 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235980: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235981: New connection from 172.19.0.1:54184 on port 1883.
+1710235981: New client connected from 172.19.0.1:54184 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235981: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235982: New connection from 172.19.0.1:54186 on port 1883.
+1710235982: New client connected from 172.19.0.1:54186 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235982: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235983: New connection from 172.19.0.1:54190 on port 1883.
+1710235983: New client connected from 172.19.0.1:54190 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235983: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235984: New connection from 172.19.0.1:54194 on port 1883.
+1710235984: New client connected from 172.19.0.1:54194 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235984: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235985: New connection from 172.19.0.1:45962 on port 1883.
+1710235985: New client connected from 172.19.0.1:45962 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235985: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235986: New connection from 172.19.0.1:45974 on port 1883.
+1710235986: New client connected from 172.19.0.1:45974 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235986: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235987: New connection from 172.19.0.1:45990 on port 1883.
+1710235987: New client connected from 172.19.0.1:45990 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235987: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235988: New connection from 172.19.0.1:45992 on port 1883.
+1710235988: New client connected from 172.19.0.1:45992 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235988: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235989: New connection from 172.19.0.1:45998 on port 1883.
+1710235989: New client connected from 172.19.0.1:45998 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235989: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235990: New connection from 172.19.0.1:46004 on port 1883.
+1710235990: New client connected from 172.19.0.1:46004 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235990: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235991: New connection from 172.19.0.1:46008 on port 1883.
+1710235991: New client connected from 172.19.0.1:46008 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235991: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235992: New connection from 172.19.0.1:46018 on port 1883.
+1710235992: New client connected from 172.19.0.1:46018 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235992: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235993: New connection from 172.19.0.1:46024 on port 1883.
+1710235993: New client connected from 172.19.0.1:46024 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235993: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235994: New connection from 172.19.0.1:43752 on port 1883.
+1710235994: New client connected from 172.19.0.1:43752 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235994: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235995: New connection from 172.19.0.1:43762 on port 1883.
+1710235995: New client connected from 172.19.0.1:43762 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235995: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235996: New connection from 172.19.0.1:43764 on port 1883.
+1710235996: New client connected from 172.19.0.1:43764 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235996: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235997: New connection from 172.19.0.1:43776 on port 1883.
+1710235997: New client connected from 172.19.0.1:43776 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235997: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235998: New connection from 172.19.0.1:43788 on port 1883.
+1710235998: New client connected from 172.19.0.1:43788 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235998: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710235999: New connection from 172.19.0.1:43802 on port 1883.
+1710235999: New client connected from 172.19.0.1:43802 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710235999: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236000: New connection from 172.19.0.1:43814 on port 1883.
+1710236000: New client connected from 172.19.0.1:43814 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236000: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236001: New connection from 172.19.0.1:43822 on port 1883.
+1710236001: New client connected from 172.19.0.1:43822 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236001: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236002: New connection from 172.19.0.1:43832 on port 1883.
+1710236002: New client connected from 172.19.0.1:43832 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236002: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236003: New connection from 172.19.0.1:43838 on port 1883.
+1710236003: New client connected from 172.19.0.1:43838 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236003: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236004: New connection from 172.19.0.1:54734 on port 1883.
+1710236004: New client connected from 172.19.0.1:54734 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236004: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236005: New connection from 172.19.0.1:54736 on port 1883.
+1710236005: New client connected from 172.19.0.1:54736 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236005: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236006: New connection from 172.19.0.1:54738 on port 1883.
+1710236006: New client connected from 172.19.0.1:54738 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236006: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236007: New connection from 172.19.0.1:54746 on port 1883.
+1710236007: New client connected from 172.19.0.1:54746 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236007: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236008: New connection from 172.19.0.1:54762 on port 1883.
+1710236008: New client connected from 172.19.0.1:54762 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236008: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236009: New connection from 172.19.0.1:54772 on port 1883.
+1710236009: New client connected from 172.19.0.1:54772 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236010: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236011: New connection from 172.19.0.1:54774 on port 1883.
+1710236011: New client connected from 172.19.0.1:54774 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236011: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236012: New connection from 172.19.0.1:54784 on port 1883.
+1710236012: New client connected from 172.19.0.1:54784 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236012: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236013: New connection from 172.19.0.1:54794 on port 1883.
+1710236013: New client connected from 172.19.0.1:54794 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236013: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236014: New connection from 172.19.0.1:54810 on port 1883.
+1710236014: New client connected from 172.19.0.1:54810 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236014: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236015: New connection from 172.19.0.1:41536 on port 1883.
+1710236015: New client connected from 172.19.0.1:41536 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236015: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236016: New connection from 172.19.0.1:41546 on port 1883.
+1710236016: New client connected from 172.19.0.1:41546 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236016: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236017: New connection from 172.19.0.1:41554 on port 1883.
+1710236017: New client connected from 172.19.0.1:41554 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236017: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236018: New connection from 172.19.0.1:41564 on port 1883.
+1710236018: New client connected from 172.19.0.1:41564 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236018: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236019: New connection from 172.19.0.1:41570 on port 1883.
+1710236019: New client connected from 172.19.0.1:41570 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236019: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236020: New connection from 172.19.0.1:41576 on port 1883.
+1710236020: New client connected from 172.19.0.1:41576 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236020: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236021: New connection from 172.19.0.1:41590 on port 1883.
+1710236021: New client connected from 172.19.0.1:41590 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236021: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236022: New connection from 172.19.0.1:41602 on port 1883.
+1710236022: New client connected from 172.19.0.1:41602 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236022: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236023: New connection from 172.19.0.1:41614 on port 1883.
+1710236023: New client connected from 172.19.0.1:41614 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236023: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236024: New connection from 172.19.0.1:41630 on port 1883.
+1710236024: New client connected from 172.19.0.1:41630 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236024: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236025: New connection from 172.19.0.1:54406 on port 1883.
+1710236025: New client connected from 172.19.0.1:54406 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236025: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236026: New connection from 172.19.0.1:54420 on port 1883.
+1710236026: New client connected from 172.19.0.1:54420 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236026: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236027: New connection from 172.19.0.1:54432 on port 1883.
+1710236027: New client connected from 172.19.0.1:54432 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236027: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236028: New connection from 172.19.0.1:54434 on port 1883.
+1710236028: New client connected from 172.19.0.1:54434 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236028: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236029: New connection from 172.19.0.1:54438 on port 1883.
+1710236029: New client connected from 172.19.0.1:54438 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236029: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236030: New connection from 172.19.0.1:54452 on port 1883.
+1710236030: New client connected from 172.19.0.1:54452 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236030: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236031: New connection from 172.19.0.1:54466 on port 1883.
+1710236031: New client connected from 172.19.0.1:54466 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236031: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236032: New connection from 172.19.0.1:54476 on port 1883.
+1710236032: New client connected from 172.19.0.1:54476 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236032: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236033: New connection from 172.19.0.1:54484 on port 1883.
+1710236033: New client connected from 172.19.0.1:54484 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236033: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236034: New connection from 172.19.0.1:58220 on port 1883.
+1710236034: New client connected from 172.19.0.1:58220 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236034: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236035: New connection from 172.19.0.1:58222 on port 1883.
+1710236035: New client connected from 172.19.0.1:58222 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236035: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236036: New connection from 172.19.0.1:58234 on port 1883.
+1710236036: New client connected from 172.19.0.1:58234 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236036: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236037: New connection from 172.19.0.1:58236 on port 1883.
+1710236037: New client connected from 172.19.0.1:58236 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236037: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236039: New connection from 172.19.0.1:58242 on port 1883.
+1710236039: New client connected from 172.19.0.1:58242 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236039: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236040: New connection from 172.19.0.1:58244 on port 1883.
+1710236040: New client connected from 172.19.0.1:58244 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236040: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236042: New connection from 172.19.0.1:58246 on port 1883.
+1710236042: New client connected from 172.19.0.1:58246 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236042: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236043: New connection from 172.19.0.1:58258 on port 1883.
+1710236043: New client connected from 172.19.0.1:58258 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236043: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236044: New connection from 172.19.0.1:58272 on port 1883.
+1710236044: New client connected from 172.19.0.1:58272 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236044: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236045: New connection from 172.19.0.1:50448 on port 1883.
+1710236045: New client connected from 172.19.0.1:50448 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236045: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236046: New connection from 172.19.0.1:50460 on port 1883.
+1710236046: New client connected from 172.19.0.1:50460 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236046: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236047: New connection from 172.19.0.1:50466 on port 1883.
+1710236047: New client connected from 172.19.0.1:50466 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236047: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236048: New connection from 172.19.0.1:50476 on port 1883.
+1710236048: New client connected from 172.19.0.1:50476 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236048: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236050: New connection from 172.19.0.1:50480 on port 1883.
+1710236050: New client connected from 172.19.0.1:50480 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236050: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236051: New connection from 172.19.0.1:50488 on port 1883.
+1710236051: New client connected from 172.19.0.1:50488 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236051: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236052: New connection from 172.19.0.1:50502 on port 1883.
+1710236052: New client connected from 172.19.0.1:50502 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236052: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236053: New connection from 172.19.0.1:50516 on port 1883.
+1710236053: New client connected from 172.19.0.1:50516 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236053: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236054: New connection from 172.19.0.1:50528 on port 1883.
+1710236054: New client connected from 172.19.0.1:50528 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236054: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236055: New connection from 172.19.0.1:41810 on port 1883.
+1710236055: New client connected from 172.19.0.1:41810 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236055: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236056: New connection from 172.19.0.1:41822 on port 1883.
+1710236056: New client connected from 172.19.0.1:41822 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236056: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236057: New connection from 172.19.0.1:41826 on port 1883.
+1710236057: New client connected from 172.19.0.1:41826 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236057: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236058: New connection from 172.19.0.1:41840 on port 1883.
+1710236058: New client connected from 172.19.0.1:41840 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236058: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236059: New connection from 172.19.0.1:41852 on port 1883.
+1710236059: New client connected from 172.19.0.1:41852 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236059: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236060: New connection from 172.19.0.1:41856 on port 1883.
+1710236060: New client connected from 172.19.0.1:41856 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236060: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236061: New connection from 172.19.0.1:41858 on port 1883.
+1710236061: New client connected from 172.19.0.1:41858 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236061: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236062: New connection from 172.19.0.1:41864 on port 1883.
+1710236062: New client connected from 172.19.0.1:41864 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236062: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236063: New connection from 172.19.0.1:41878 on port 1883.
+1710236063: New client connected from 172.19.0.1:41878 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236063: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236064: New connection from 172.19.0.1:41888 on port 1883.
+1710236064: New client connected from 172.19.0.1:41888 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236064: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236065: New connection from 172.19.0.1:54744 on port 1883.
+1710236065: New client connected from 172.19.0.1:54744 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236065: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236066: New connection from 172.19.0.1:54746 on port 1883.
+1710236066: New client connected from 172.19.0.1:54746 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236066: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236067: New connection from 172.19.0.1:54762 on port 1883.
+1710236067: New client connected from 172.19.0.1:54762 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236067: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236068: New connection from 172.19.0.1:54766 on port 1883.
+1710236068: New client connected from 172.19.0.1:54766 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236068: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236069: New connection from 172.19.0.1:54770 on port 1883.
+1710236069: New client connected from 172.19.0.1:54770 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236069: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236070: New connection from 172.19.0.1:54772 on port 1883.
+1710236070: New client connected from 172.19.0.1:54772 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236070: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236071: New connection from 172.19.0.1:54786 on port 1883.
+1710236071: New client connected from 172.19.0.1:54786 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236071: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236072: New connection from 172.19.0.1:54800 on port 1883.
+1710236072: New client connected from 172.19.0.1:54800 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236072: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236073: New connection from 172.19.0.1:54808 on port 1883.
+1710236073: New client connected from 172.19.0.1:54808 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236073: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236074: New connection from 172.19.0.1:48280 on port 1883.
+1710236074: New client connected from 172.19.0.1:48280 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236074: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236075: New connection from 172.19.0.1:48288 on port 1883.
+1710236075: New client connected from 172.19.0.1:48288 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236075: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236076: New connection from 172.19.0.1:48302 on port 1883.
+1710236076: New client connected from 172.19.0.1:48302 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236077: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236078: New connection from 172.19.0.1:48308 on port 1883.
+1710236078: New client connected from 172.19.0.1:48308 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236078: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236079: New connection from 172.19.0.1:48320 on port 1883.
+1710236079: New client connected from 172.19.0.1:48320 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236079: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236080: New connection from 172.19.0.1:48322 on port 1883.
+1710236080: New client connected from 172.19.0.1:48322 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236080: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236081: New connection from 172.19.0.1:48336 on port 1883.
+1710236081: New client connected from 172.19.0.1:48336 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236081: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236082: New connection from 172.19.0.1:48348 on port 1883.
+1710236082: New client connected from 172.19.0.1:48348 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236082: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236083: New connection from 172.19.0.1:48364 on port 1883.
+1710236083: New client connected from 172.19.0.1:48364 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236083: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236084: New connection from 172.19.0.1:48378 on port 1883.
+1710236084: New client connected from 172.19.0.1:48378 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236084: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236085: New connection from 172.19.0.1:47380 on port 1883.
+1710236085: New client connected from 172.19.0.1:47380 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236085: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236086: New connection from 172.19.0.1:47392 on port 1883.
+1710236086: New client connected from 172.19.0.1:47392 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236086: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236087: New connection from 172.19.0.1:47404 on port 1883.
+1710236087: New client connected from 172.19.0.1:47404 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236087: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236088: New connection from 172.19.0.1:47418 on port 1883.
+1710236088: New client connected from 172.19.0.1:47418 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236088: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236089: New connection from 172.19.0.1:47430 on port 1883.
+1710236089: New client connected from 172.19.0.1:47430 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236089: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236090: New connection from 172.19.0.1:47436 on port 1883.
+1710236090: New client connected from 172.19.0.1:47436 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236090: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236091: New connection from 172.19.0.1:47442 on port 1883.
+1710236091: New client connected from 172.19.0.1:47442 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236091: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236092: New connection from 172.19.0.1:47444 on port 1883.
+1710236092: New client connected from 172.19.0.1:47444 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236092: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236093: New connection from 172.19.0.1:47458 on port 1883.
+1710236093: New client connected from 172.19.0.1:47458 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236093: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236094: New connection from 172.19.0.1:47462 on port 1883.
+1710236094: New client connected from 172.19.0.1:47462 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236094: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236095: New connection from 172.19.0.1:56454 on port 1883.
+1710236095: New client connected from 172.19.0.1:56454 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236095: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236096: New connection from 172.19.0.1:56462 on port 1883.
+1710236096: New client connected from 172.19.0.1:56462 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236096: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236097: New connection from 172.19.0.1:56470 on port 1883.
+1710236097: New client connected from 172.19.0.1:56470 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236097: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236098: New connection from 172.19.0.1:56482 on port 1883.
+1710236098: New client connected from 172.19.0.1:56482 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236098: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236099: New connection from 172.19.0.1:56484 on port 1883.
+1710236099: New client connected from 172.19.0.1:56484 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236099: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236100: New connection from 172.19.0.1:56492 on port 1883.
+1710236100: New client connected from 172.19.0.1:56492 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236100: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236101: New connection from 172.19.0.1:56494 on port 1883.
+1710236101: New client connected from 172.19.0.1:56494 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236101: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236102: New connection from 172.19.0.1:56506 on port 1883.
+1710236102: New client connected from 172.19.0.1:56506 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236102: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236103: New connection from 172.19.0.1:56520 on port 1883.
+1710236103: New client connected from 172.19.0.1:56520 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236103: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236104: New connection from 172.19.0.1:52066 on port 1883.
+1710236104: New client connected from 172.19.0.1:52066 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236104: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236105: New connection from 172.19.0.1:52076 on port 1883.
+1710236105: New client connected from 172.19.0.1:52076 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236105: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236106: New connection from 172.19.0.1:52084 on port 1883.
+1710236106: New client connected from 172.19.0.1:52084 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236106: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236107: New connection from 172.19.0.1:52088 on port 1883.
+1710236107: New client connected from 172.19.0.1:52088 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236107: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236108: New connection from 172.19.0.1:52092 on port 1883.
+1710236108: New client connected from 172.19.0.1:52092 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236108: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236109: New connection from 172.19.0.1:52102 on port 1883.
+1710236109: New client connected from 172.19.0.1:52102 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236109: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236110: New connection from 172.19.0.1:52106 on port 1883.
+1710236110: New client connected from 172.19.0.1:52106 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236110: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236111: New connection from 172.19.0.1:52120 on port 1883.
+1710236111: New client connected from 172.19.0.1:52120 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236111: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236112: New connection from 172.19.0.1:52136 on port 1883.
+1710236112: New client connected from 172.19.0.1:52136 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236112: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236113: New connection from 172.19.0.1:52152 on port 1883.
+1710236113: New client connected from 172.19.0.1:52152 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236114: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236115: New connection from 172.19.0.1:52744 on port 1883.
+1710236115: New client connected from 172.19.0.1:52744 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236115: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236116: New connection from 172.19.0.1:52746 on port 1883.
+1710236116: New client connected from 172.19.0.1:52746 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236116: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236117: New connection from 172.19.0.1:52760 on port 1883.
+1710236117: New client connected from 172.19.0.1:52760 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236117: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236118: New connection from 172.19.0.1:52776 on port 1883.
+1710236118: New client connected from 172.19.0.1:52776 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236118: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236119: New connection from 172.19.0.1:52788 on port 1883.
+1710236119: New client connected from 172.19.0.1:52788 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236119: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236120: New connection from 172.19.0.1:52792 on port 1883.
+1710236120: New client connected from 172.19.0.1:52792 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236120: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236121: New connection from 172.19.0.1:52802 on port 1883.
+1710236121: New client connected from 172.19.0.1:52802 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236121: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236122: New connection from 172.19.0.1:52810 on port 1883.
+1710236122: New client connected from 172.19.0.1:52810 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236122: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236123: New connection from 172.19.0.1:52820 on port 1883.
+1710236123: New client connected from 172.19.0.1:52820 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236123: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236124: New connection from 172.19.0.1:52826 on port 1883.
+1710236124: New client connected from 172.19.0.1:52826 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236124: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236125: New connection from 172.19.0.1:59694 on port 1883.
+1710236125: New client connected from 172.19.0.1:59694 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236125: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236126: New connection from 172.19.0.1:59704 on port 1883.
+1710236126: New client connected from 172.19.0.1:59704 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236126: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236127: New connection from 172.19.0.1:59708 on port 1883.
+1710236127: New client connected from 172.19.0.1:59708 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236127: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236128: New connection from 172.19.0.1:59714 on port 1883.
+1710236128: New client connected from 172.19.0.1:59714 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236128: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236130: New connection from 172.19.0.1:59716 on port 1883.
+1710236130: New client connected from 172.19.0.1:59716 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236130: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236131: New connection from 172.19.0.1:59728 on port 1883.
+1710236131: New client connected from 172.19.0.1:59728 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236131: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236132: New connection from 172.19.0.1:59734 on port 1883.
+1710236132: New client connected from 172.19.0.1:59734 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236132: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236133: New connection from 172.19.0.1:59742 on port 1883.
+1710236133: New client connected from 172.19.0.1:59742 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236133: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236134: New connection from 172.19.0.1:41018 on port 1883.
+1710236134: New client connected from 172.19.0.1:41018 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236134: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236136: New connection from 172.19.0.1:41026 on port 1883.
+1710236136: New client connected from 172.19.0.1:41026 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236136: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236137: New connection from 172.19.0.1:41040 on port 1883.
+1710236137: New client connected from 172.19.0.1:41040 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236137: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236138: New connection from 172.19.0.1:41048 on port 1883.
+1710236138: New client connected from 172.19.0.1:41048 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236138: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236139: New connection from 172.19.0.1:41064 on port 1883.
+1710236139: New client connected from 172.19.0.1:41064 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236139: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236141: New connection from 172.19.0.1:41072 on port 1883.
+1710236141: New client connected from 172.19.0.1:41072 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236141: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236142: New connection from 172.19.0.1:41084 on port 1883.
+1710236142: New client connected from 172.19.0.1:41084 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236142: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236145: New connection from 172.19.0.1:52926 on port 1883.
+1710236145: New client connected from 172.19.0.1:52926 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236146: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236148: New connection from 172.19.0.1:52934 on port 1883.
+1710236148: New client connected from 172.19.0.1:52934 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236149: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236150: New connection from 172.19.0.1:52936 on port 1883.
+1710236150: New client connected from 172.19.0.1:52936 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236151: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236152: New connection from 172.19.0.1:52942 on port 1883.
+1710236152: New client connected from 172.19.0.1:52942 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236153: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236154: New connection from 172.19.0.1:52956 on port 1883.
+1710236154: New client connected from 172.19.0.1:52956 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236154: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236155: New connection from 172.19.0.1:40320 on port 1883.
+1710236155: New client connected from 172.19.0.1:40320 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236155: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236156: New connection from 172.19.0.1:40328 on port 1883.
+1710236156: New client connected from 172.19.0.1:40328 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236156: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236157: New connection from 172.19.0.1:40332 on port 1883.
+1710236157: New client connected from 172.19.0.1:40332 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236157: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236158: New connection from 172.19.0.1:40338 on port 1883.
+1710236158: New client connected from 172.19.0.1:40338 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236158: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236159: New connection from 172.19.0.1:40342 on port 1883.
+1710236159: New client connected from 172.19.0.1:40342 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236159: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236160: New connection from 172.19.0.1:40352 on port 1883.
+1710236160: New client connected from 172.19.0.1:40352 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236160: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236161: New connection from 172.19.0.1:40366 on port 1883.
+1710236161: New client connected from 172.19.0.1:40366 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236162: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236163: New connection from 172.19.0.1:40374 on port 1883.
+1710236163: New client connected from 172.19.0.1:40374 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236163: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236164: New connection from 172.19.0.1:40376 on port 1883.
+1710236164: New client connected from 172.19.0.1:40376 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236164: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236165: New connection from 172.19.0.1:48458 on port 1883.
+1710236165: New client connected from 172.19.0.1:48458 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236165: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236166: New connection from 172.19.0.1:48466 on port 1883.
+1710236166: New client connected from 172.19.0.1:48466 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236166: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236167: New connection from 172.19.0.1:48468 on port 1883.
+1710236167: New client connected from 172.19.0.1:48468 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236167: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236168: New connection from 172.19.0.1:48480 on port 1883.
+1710236168: New client connected from 172.19.0.1:48480 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236168: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236169: New connection from 172.19.0.1:48482 on port 1883.
+1710236169: New client connected from 172.19.0.1:48482 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236169: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236170: New connection from 172.19.0.1:48488 on port 1883.
+1710236170: New client connected from 172.19.0.1:48488 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236170: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236171: New connection from 172.19.0.1:48490 on port 1883.
+1710236171: New client connected from 172.19.0.1:48490 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236171: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236172: New connection from 172.19.0.1:48500 on port 1883.
+1710236172: New client connected from 172.19.0.1:48500 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236172: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236173: New connection from 172.19.0.1:48504 on port 1883.
+1710236173: New client connected from 172.19.0.1:48504 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236173: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236174: New connection from 172.19.0.1:52030 on port 1883.
+1710236174: New client connected from 172.19.0.1:52030 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236174: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236175: New connection from 172.19.0.1:52034 on port 1883.
+1710236175: New client connected from 172.19.0.1:52034 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236175: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236176: New connection from 172.19.0.1:52046 on port 1883.
+1710236176: New client connected from 172.19.0.1:52046 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236176: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236177: New connection from 172.19.0.1:52056 on port 1883.
+1710236177: New client connected from 172.19.0.1:52056 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236177: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236178: New connection from 172.19.0.1:52068 on port 1883.
+1710236178: New client connected from 172.19.0.1:52068 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236178: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236179: New connection from 172.19.0.1:52078 on port 1883.
+1710236179: New client connected from 172.19.0.1:52078 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236179: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236180: New connection from 172.19.0.1:52082 on port 1883.
+1710236180: New client connected from 172.19.0.1:52082 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236180: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236181: New connection from 172.19.0.1:52092 on port 1883.
+1710236181: New client connected from 172.19.0.1:52092 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236181: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236182: New connection from 172.19.0.1:52094 on port 1883.
+1710236182: New client connected from 172.19.0.1:52094 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236182: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236183: New connection from 172.19.0.1:52096 on port 1883.
+1710236183: New client connected from 172.19.0.1:52096 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236183: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236184: New connection from 172.19.0.1:47990 on port 1883.
+1710236184: New client connected from 172.19.0.1:47990 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236184: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236185: New connection from 172.19.0.1:48006 on port 1883.
+1710236185: New client connected from 172.19.0.1:48006 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236185: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236186: New connection from 172.19.0.1:48016 on port 1883.
+1710236186: New client connected from 172.19.0.1:48016 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236186: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236187: New connection from 172.19.0.1:48026 on port 1883.
+1710236187: New client connected from 172.19.0.1:48026 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236187: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236188: New connection from 172.19.0.1:48040 on port 1883.
+1710236188: New client connected from 172.19.0.1:48040 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236188: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236189: New connection from 172.19.0.1:48052 on port 1883.
+1710236189: New client connected from 172.19.0.1:48052 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236189: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236190: New connection from 172.19.0.1:48054 on port 1883.
+1710236190: New client connected from 172.19.0.1:48054 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236190: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236192: New connection from 172.19.0.1:48060 on port 1883.
+1710236192: New client connected from 172.19.0.1:48060 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236192: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236193: New connection from 172.19.0.1:48072 on port 1883.
+1710236193: New client connected from 172.19.0.1:48072 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236193: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236194: New connection from 172.19.0.1:48084 on port 1883.
+1710236194: New client connected from 172.19.0.1:48084 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236194: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236195: New connection from 172.19.0.1:54890 on port 1883.
+1710236195: New client connected from 172.19.0.1:54890 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236195: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236196: New connection from 172.19.0.1:54898 on port 1883.
+1710236196: New client connected from 172.19.0.1:54898 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236196: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236197: New connection from 172.19.0.1:54906 on port 1883.
+1710236197: New client connected from 172.19.0.1:54906 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236197: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236198: New connection from 172.19.0.1:54918 on port 1883.
+1710236198: New client connected from 172.19.0.1:54918 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236198: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236199: New connection from 172.19.0.1:54928 on port 1883.
+1710236199: New client connected from 172.19.0.1:54928 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236199: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236200: New connection from 172.19.0.1:54930 on port 1883.
+1710236200: New client connected from 172.19.0.1:54930 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236200: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236201: New connection from 172.19.0.1:54944 on port 1883.
+1710236201: New client connected from 172.19.0.1:54944 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236201: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236202: New connection from 172.19.0.1:54960 on port 1883.
+1710236202: New client connected from 172.19.0.1:54960 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236202: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236203: New connection from 172.19.0.1:54970 on port 1883.
+1710236203: New client connected from 172.19.0.1:54970 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236203: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236204: New connection from 172.19.0.1:50248 on port 1883.
+1710236204: New client connected from 172.19.0.1:50248 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236204: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236207: New connection from 172.19.0.1:50264 on port 1883.
+1710236207: New client connected from 172.19.0.1:50264 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236207: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236209: New connection from 172.19.0.1:50266 on port 1883.
+1710236209: New client connected from 172.19.0.1:50266 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236209: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236211: New connection from 172.19.0.1:50272 on port 1883.
+1710236211: New client connected from 172.19.0.1:50272 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236211: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236212: New connection from 172.19.0.1:50288 on port 1883.
+1710236212: New client connected from 172.19.0.1:50288 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236212: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236213: New connection from 172.19.0.1:50292 on port 1883.
+1710236213: New client connected from 172.19.0.1:50292 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236213: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236214: New connection from 172.19.0.1:50308 on port 1883.
+1710236214: New client connected from 172.19.0.1:50308 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236214: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236215: New connection from 172.19.0.1:60482 on port 1883.
+1710236215: New client connected from 172.19.0.1:60482 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236215: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236216: New connection from 172.19.0.1:60494 on port 1883.
+1710236216: New client connected from 172.19.0.1:60494 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236216: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236217: New connection from 172.19.0.1:60506 on port 1883.
+1710236217: New client connected from 172.19.0.1:60506 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236217: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236218: New connection from 172.19.0.1:60512 on port 1883.
+1710236218: New client connected from 172.19.0.1:60512 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236218: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236219: New connection from 172.19.0.1:60520 on port 1883.
+1710236219: New client connected from 172.19.0.1:60520 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236219: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236220: New connection from 172.19.0.1:60534 on port 1883.
+1710236220: New client connected from 172.19.0.1:60534 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236220: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236221: New connection from 172.19.0.1:60538 on port 1883.
+1710236221: New client connected from 172.19.0.1:60538 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236221: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236222: New connection from 172.19.0.1:60554 on port 1883.
+1710236222: New client connected from 172.19.0.1:60554 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236222: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236223: New connection from 172.19.0.1:60558 on port 1883.
+1710236223: New client connected from 172.19.0.1:60558 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236223: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236224: New connection from 172.19.0.1:60562 on port 1883.
+1710236224: New client connected from 172.19.0.1:60562 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236224: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236225: New connection from 172.19.0.1:49152 on port 1883.
+1710236225: New client connected from 172.19.0.1:49152 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236225: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236226: New connection from 172.19.0.1:49166 on port 1883.
+1710236226: New client connected from 172.19.0.1:49166 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236226: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236227: New connection from 172.19.0.1:49178 on port 1883.
+1710236227: New client connected from 172.19.0.1:49178 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236227: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236228: New connection from 172.19.0.1:49184 on port 1883.
+1710236228: New client connected from 172.19.0.1:49184 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236228: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236229: New connection from 172.19.0.1:49188 on port 1883.
+1710236229: New client connected from 172.19.0.1:49188 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236229: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236230: New connection from 172.19.0.1:49204 on port 1883.
+1710236230: New client connected from 172.19.0.1:49204 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236230: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236231: New connection from 172.19.0.1:49208 on port 1883.
+1710236231: New client connected from 172.19.0.1:49208 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236231: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236232: New connection from 172.19.0.1:49218 on port 1883.
+1710236232: New client connected from 172.19.0.1:49218 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236232: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236233: New connection from 172.19.0.1:49228 on port 1883.
+1710236233: New client connected from 172.19.0.1:49228 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236233: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236234: New connection from 172.19.0.1:44354 on port 1883.
+1710236234: New client connected from 172.19.0.1:44354 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236234: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236235: New connection from 172.19.0.1:44356 on port 1883.
+1710236235: New client connected from 172.19.0.1:44356 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236235: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236236: New connection from 172.19.0.1:44360 on port 1883.
+1710236236: New client connected from 172.19.0.1:44360 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236236: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236237: New connection from 172.19.0.1:44376 on port 1883.
+1710236237: New client connected from 172.19.0.1:44376 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236237: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236238: New connection from 172.19.0.1:44386 on port 1883.
+1710236238: New client connected from 172.19.0.1:44386 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236238: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236239: New connection from 172.19.0.1:44398 on port 1883.
+1710236239: New client connected from 172.19.0.1:44398 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236239: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236240: New connection from 172.19.0.1:44414 on port 1883.
+1710236240: New client connected from 172.19.0.1:44414 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236240: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236241: New connection from 172.19.0.1:44430 on port 1883.
+1710236241: New client connected from 172.19.0.1:44430 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236241: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236242: New connection from 172.19.0.1:44446 on port 1883.
+1710236242: New client connected from 172.19.0.1:44446 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236242: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236243: New connection from 172.19.0.1:44462 on port 1883.
+1710236243: New client connected from 172.19.0.1:44462 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236243: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236244: New connection from 172.19.0.1:34576 on port 1883.
+1710236244: New client connected from 172.19.0.1:34576 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236244: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236245: New connection from 172.19.0.1:34584 on port 1883.
+1710236245: New client connected from 172.19.0.1:34584 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236245: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236246: New connection from 172.19.0.1:34592 on port 1883.
+1710236246: New client connected from 172.19.0.1:34592 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236246: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236247: New connection from 172.19.0.1:34608 on port 1883.
+1710236247: New client connected from 172.19.0.1:34608 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236247: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236248: New connection from 172.19.0.1:34610 on port 1883.
+1710236248: New client connected from 172.19.0.1:34610 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236248: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236249: New connection from 172.19.0.1:34618 on port 1883.
+1710236249: New client connected from 172.19.0.1:34618 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236250: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236251: New connection from 172.19.0.1:34626 on port 1883.
+1710236251: New client connected from 172.19.0.1:34626 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236251: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236252: New connection from 172.19.0.1:34634 on port 1883.
+1710236252: New client connected from 172.19.0.1:34634 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236252: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236253: New connection from 172.19.0.1:34650 on port 1883.
+1710236253: New client connected from 172.19.0.1:34650 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236253: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236254: New connection from 172.19.0.1:34652 on port 1883.
+1710236254: New client connected from 172.19.0.1:34652 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236254: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236255: New connection from 172.19.0.1:34800 on port 1883.
+1710236255: New client connected from 172.19.0.1:34800 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236255: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236256: New connection from 172.19.0.1:34802 on port 1883.
+1710236256: New client connected from 172.19.0.1:34802 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236256: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236257: New connection from 172.19.0.1:34810 on port 1883.
+1710236257: New client connected from 172.19.0.1:34810 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236257: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236258: New connection from 172.19.0.1:34814 on port 1883.
+1710236258: New client connected from 172.19.0.1:34814 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236258: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236259: New connection from 172.19.0.1:34830 on port 1883.
+1710236259: New client connected from 172.19.0.1:34830 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236259: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236260: New connection from 172.19.0.1:34838 on port 1883.
+1710236260: New client connected from 172.19.0.1:34838 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236260: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236261: New connection from 172.19.0.1:34854 on port 1883.
+1710236261: New client connected from 172.19.0.1:34854 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236261: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236262: New connection from 172.19.0.1:34870 on port 1883.
+1710236262: New client connected from 172.19.0.1:34870 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236262: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236263: New connection from 172.19.0.1:34878 on port 1883.
+1710236263: New client connected from 172.19.0.1:34878 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236263: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236264: New connection from 172.19.0.1:50702 on port 1883.
+1710236264: New client connected from 172.19.0.1:50702 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236264: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236265: New connection from 172.19.0.1:50706 on port 1883.
+1710236265: New client connected from 172.19.0.1:50706 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236265: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236266: New connection from 172.19.0.1:50716 on port 1883.
+1710236266: New client connected from 172.19.0.1:50716 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236266: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236267: New connection from 172.19.0.1:50728 on port 1883.
+1710236267: New client connected from 172.19.0.1:50728 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236267: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236268: New connection from 172.19.0.1:50740 on port 1883.
+1710236268: New client connected from 172.19.0.1:50740 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236268: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236269: New connection from 172.19.0.1:50746 on port 1883.
+1710236269: New client connected from 172.19.0.1:50746 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236269: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236270: New connection from 172.19.0.1:50756 on port 1883.
+1710236270: New client connected from 172.19.0.1:50756 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236270: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236271: New connection from 172.19.0.1:50772 on port 1883.
+1710236271: New client connected from 172.19.0.1:50772 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236271: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236272: New connection from 172.19.0.1:50778 on port 1883.
+1710236272: New client connected from 172.19.0.1:50778 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236272: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236273: New connection from 172.19.0.1:50780 on port 1883.
+1710236273: New client connected from 172.19.0.1:50780 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236273: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236274: New connection from 172.19.0.1:59776 on port 1883.
+1710236274: New client connected from 172.19.0.1:59776 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236274: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236275: New connection from 172.19.0.1:59784 on port 1883.
+1710236275: New client connected from 172.19.0.1:59784 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236275: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236276: New connection from 172.19.0.1:59792 on port 1883.
+1710236276: New client connected from 172.19.0.1:59792 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236276: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236277: New connection from 172.19.0.1:59804 on port 1883.
+1710236277: New client connected from 172.19.0.1:59804 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236277: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236278: New connection from 172.19.0.1:59814 on port 1883.
+1710236278: New client connected from 172.19.0.1:59814 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236278: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236280: New connection from 172.19.0.1:59828 on port 1883.
+1710236280: New client connected from 172.19.0.1:59828 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236280: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236281: New connection from 172.19.0.1:59834 on port 1883.
+1710236281: New client connected from 172.19.0.1:59834 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236281: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236282: New connection from 172.19.0.1:59844 on port 1883.
+1710236282: New client connected from 172.19.0.1:59844 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236282: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236283: New connection from 172.19.0.1:59856 on port 1883.
+1710236283: New client connected from 172.19.0.1:59856 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236283: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236284: New connection from 172.19.0.1:59860 on port 1883.
+1710236284: New client connected from 172.19.0.1:59860 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236284: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236285: New connection from 172.19.0.1:47406 on port 1883.
+1710236285: New client connected from 172.19.0.1:47406 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236285: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236286: New connection from 172.19.0.1:47420 on port 1883.
+1710236286: New client connected from 172.19.0.1:47420 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236286: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236287: New connection from 172.19.0.1:47432 on port 1883.
+1710236287: New client connected from 172.19.0.1:47432 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236287: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236288: New connection from 172.19.0.1:47438 on port 1883.
+1710236288: New client connected from 172.19.0.1:47438 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236288: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236289: New connection from 172.19.0.1:47444 on port 1883.
+1710236289: New client connected from 172.19.0.1:47444 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236289: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236290: New connection from 172.19.0.1:47446 on port 1883.
+1710236290: New client connected from 172.19.0.1:47446 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236290: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236291: New connection from 172.19.0.1:47458 on port 1883.
+1710236291: New client connected from 172.19.0.1:47458 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236291: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236292: New connection from 172.19.0.1:47472 on port 1883.
+1710236292: New client connected from 172.19.0.1:47472 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236292: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236293: New connection from 172.19.0.1:47482 on port 1883.
+1710236293: New client connected from 172.19.0.1:47482 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236293: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236296: New connection from 172.19.0.1:41086 on port 1883.
+1710236296: New client connected from 172.19.0.1:41086 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236296: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236297: New connection from 172.19.0.1:41098 on port 1883.
+1710236297: New client connected from 172.19.0.1:41098 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236297: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236298: New connection from 172.19.0.1:41108 on port 1883.
+1710236299: New client connected from 172.19.0.1:41108 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236299: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236300: New connection from 172.19.0.1:41114 on port 1883.
+1710236300: New client connected from 172.19.0.1:41114 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236300: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236301: New connection from 172.19.0.1:41122 on port 1883.
+1710236301: New client connected from 172.19.0.1:41122 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236301: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236302: New connection from 172.19.0.1:41124 on port 1883.
+1710236302: New client connected from 172.19.0.1:41124 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236302: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236303: New connection from 172.19.0.1:41128 on port 1883.
+1710236303: New client connected from 172.19.0.1:41128 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236303: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236304: New connection from 172.19.0.1:41132 on port 1883.
+1710236304: New client connected from 172.19.0.1:41132 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236304: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236305: New connection from 172.19.0.1:44160 on port 1883.
+1710236305: New client connected from 172.19.0.1:44160 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236305: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236306: New connection from 172.19.0.1:44166 on port 1883.
+1710236306: New client connected from 172.19.0.1:44166 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236306: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236307: New connection from 172.19.0.1:44182 on port 1883.
+1710236307: New client connected from 172.19.0.1:44182 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236307: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236308: New connection from 172.19.0.1:44188 on port 1883.
+1710236308: New client connected from 172.19.0.1:44188 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236308: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236309: New connection from 172.19.0.1:44202 on port 1883.
+1710236309: New client connected from 172.19.0.1:44202 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236309: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236310: New connection from 172.19.0.1:44206 on port 1883.
+1710236310: New client connected from 172.19.0.1:44206 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236310: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236311: New connection from 172.19.0.1:44214 on port 1883.
+1710236311: New client connected from 172.19.0.1:44214 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236311: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236312: New connection from 172.19.0.1:44224 on port 1883.
+1710236312: New client connected from 172.19.0.1:44224 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236312: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236313: New connection from 172.19.0.1:44228 on port 1883.
+1710236313: New client connected from 172.19.0.1:44228 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236313: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236314: New connection from 172.19.0.1:47890 on port 1883.
+1710236314: New client connected from 172.19.0.1:47890 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236314: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236315: New connection from 172.19.0.1:47902 on port 1883.
+1710236315: New client connected from 172.19.0.1:47902 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236315: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236316: New connection from 172.19.0.1:47904 on port 1883.
+1710236316: New client connected from 172.19.0.1:47904 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236316: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236317: New connection from 172.19.0.1:47914 on port 1883.
+1710236317: New client connected from 172.19.0.1:47914 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236317: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236319: New connection from 172.19.0.1:47930 on port 1883.
+1710236319: New client connected from 172.19.0.1:47930 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236319: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236320: New connection from 172.19.0.1:47938 on port 1883.
+1710236320: New client connected from 172.19.0.1:47938 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236320: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236321: New connection from 172.19.0.1:47950 on port 1883.
+1710236321: New client connected from 172.19.0.1:47950 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236321: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236322: New connection from 172.19.0.1:47964 on port 1883.
+1710236322: New client connected from 172.19.0.1:47964 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236323: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236326: New connection from 172.19.0.1:50098 on port 1883.
+1710236326: New client connected from 172.19.0.1:50098 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236326: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236328: New connection from 172.19.0.1:50112 on port 1883.
+1710236328: New client connected from 172.19.0.1:50112 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236328: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236330: New connection from 172.19.0.1:50128 on port 1883.
+1710236330: New client connected from 172.19.0.1:50128 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236330: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236331: New connection from 172.19.0.1:50136 on port 1883.
+1710236331: New client connected from 172.19.0.1:50136 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236331: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236333: New connection from 172.19.0.1:50138 on port 1883.
+1710236333: New client connected from 172.19.0.1:50138 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236333: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236334: New connection from 172.19.0.1:41984 on port 1883.
+1710236334: New client connected from 172.19.0.1:41984 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236334: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236336: New connection from 172.19.0.1:41998 on port 1883.
+1710236336: New client connected from 172.19.0.1:41998 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236336: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236338: New connection from 172.19.0.1:42008 on port 1883.
+1710236338: New client connected from 172.19.0.1:42008 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236338: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236339: New connection from 172.19.0.1:42018 on port 1883.
+1710236339: New client connected from 172.19.0.1:42018 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236340: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236340: Client auto-75BE9272-BC72-C32C-3D7F-CCCF66125FE4 closed its connection.
+1710236341: New connection from 172.19.0.1:42026 on port 1883.
+1710236341: New client connected from 172.19.0.1:42026 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236341: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236342: New connection from 172.19.0.1:42032 on port 1883.
+1710236342: New client connected from 172.19.0.1:42032 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236342: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236343: New connection from 172.19.0.1:42046 on port 1883.
+1710236343: New client connected from 172.19.0.1:42046 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236343: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236344: New connection from 172.19.0.1:42056 on port 1883.
+1710236344: New client connected from 172.19.0.1:42056 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236344: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236345: New connection from 172.19.0.1:44028 on port 1883.
+1710236345: New client connected from 172.19.0.1:44028 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236345: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236346: New connection from 172.19.0.1:44038 on port 1883.
+1710236346: New client connected from 172.19.0.1:44038 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236346: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236347: New connection from 172.19.0.1:44044 on port 1883.
+1710236347: New client connected from 172.19.0.1:44044 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236347: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236348: New connection from 172.19.0.1:44046 on port 1883.
+1710236348: New client connected from 172.19.0.1:44046 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236348: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236349: New connection from 172.19.0.1:44062 on port 1883.
+1710236349: New client connected from 172.19.0.1:44062 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236349: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236350: New connection from 172.19.0.1:44068 on port 1883.
+1710236350: New client connected from 172.19.0.1:44068 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236350: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236351: New connection from 172.19.0.1:44078 on port 1883.
+1710236351: New client connected from 172.19.0.1:44078 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236351: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236352: New connection from 172.19.0.1:44088 on port 1883.
+1710236353: New client connected from 172.19.0.1:44088 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236353: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236357: New connection from 172.19.0.1:51638 on port 1883.
+1710236357: New client connected from 172.19.0.1:51638 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236357: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236358: New connection from 172.19.0.1:51650 on port 1883.
+1710236358: New client connected from 172.19.0.1:51650 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236358: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236359: New connection from 172.19.0.1:51660 on port 1883.
+1710236359: New client connected from 172.19.0.1:51660 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236359: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236361: New connection from 172.19.0.1:51662 on port 1883.
+1710236361: New client connected from 172.19.0.1:51662 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236361: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236362: New connection from 172.19.0.3:60287 on port 1883.
+1710236362: New client connected from 172.19.0.3:60287 as auto-EB3A20E1-CDB7-751A-3B67-870079FD980E (p2, c1, k60).
+1710236362: New connection from 172.19.0.1:51666 on port 1883.
+1710236362: New client connected from 172.19.0.1:51666 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236362: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236363: New connection from 172.19.0.1:51672 on port 1883.
+1710236363: New client connected from 172.19.0.1:51672 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236363: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236365: New connection from 172.19.0.1:56070 on port 1883.
+1710236365: New client connected from 172.19.0.1:56070 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236365: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236366: New connection from 172.19.0.1:56080 on port 1883.
+1710236366: New client connected from 172.19.0.1:56080 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236366: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236367: New connection from 172.19.0.1:56094 on port 1883.
+1710236367: New client connected from 172.19.0.1:56094 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236367: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236368: New connection from 172.19.0.1:56096 on port 1883.
+1710236368: New client connected from 172.19.0.1:56096 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236368: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236369: New connection from 172.19.0.1:56110 on port 1883.
+1710236369: New client connected from 172.19.0.1:56110 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236369: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236370: New connection from 172.19.0.1:56120 on port 1883.
+1710236370: New client connected from 172.19.0.1:56120 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236370: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236371: New connection from 172.19.0.1:56126 on port 1883.
+1710236371: New client connected from 172.19.0.1:56126 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236371: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236372: New connection from 172.19.0.1:56138 on port 1883.
+1710236372: New client connected from 172.19.0.1:56138 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236372: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236373: New connection from 172.19.0.1:56146 on port 1883.
+1710236373: New client connected from 172.19.0.1:56146 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236373: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236374: New connection from 172.19.0.1:36624 on port 1883.
+1710236374: New client connected from 172.19.0.1:36624 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236374: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236375: New connection from 172.19.0.1:36626 on port 1883.
+1710236375: New client connected from 172.19.0.1:36626 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236375: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236376: New connection from 172.19.0.1:36636 on port 1883.
+1710236376: New client connected from 172.19.0.1:36636 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236376: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710236377: New connection from 172.19.0.1:36646 on port 1883.
+1710236377: New client connected from 172.19.0.1:36646 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710236378: Client mqtt-explorer-01888b35 disconnected due to malformed packet.
+1710237338: Client auto-EB3A20E1-CDB7-751A-3B67-870079FD980E closed its connection.
+1710238828: mosquitto version 2.0.18 starting
+1710238828: Config loaded from /mosquitto/config/mosquitto.conf.
+1710238828: Opening ipv4 listen socket on port 1883.
+1710238828: Opening ipv6 listen socket on port 1883.
+1710238828: mosquitto version 2.0.18 running
+1710238834: New connection from 172.19.0.3:60729 on port 1883.
+1710238834: New client connected from 172.19.0.3:60729 as auto-372AFDF3-B83E-5A67-EC9A-05D9A2E7CADB (p2, c1, k60).
+1710238844: New connection from 172.19.0.1:54832 on port 1883.
+1710238844: New client connected from 172.19.0.1:54832 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710239485: Client auto-372AFDF3-B83E-5A67-EC9A-05D9A2E7CADB closed its connection.
+1710239489: New connection from 172.19.0.3:50355 on port 1883.
+1710239489: New client connected from 172.19.0.3:50355 as auto-6983FB45-FC25-5127-0581-B3DC5AE303E0 (p2, c1, k60).
+1710239749: Client auto-6983FB45-FC25-5127-0581-B3DC5AE303E0 closed its connection.
+1710239753: New connection from 172.19.0.3:51871 on port 1883.
+1710239753: New client connected from 172.19.0.3:51871 as auto-8DDFBB79-3F7F-3330-C566-DFB5100E9504 (p2, c1, k60).
+1710239870: Client auto-8DDFBB79-3F7F-3330-C566-DFB5100E9504 closed its connection.
+1710239873: New connection from 172.19.0.3:37557 on port 1883.
+1710239873: New client connected from 172.19.0.3:37557 as auto-9887CFF7-7313-179C-8497-786E7087077C (p2, c1, k60).
+1710240058: Client auto-9887CFF7-7313-179C-8497-786E7087077C closed its connection.
+1710240062: New connection from 172.19.0.3:48505 on port 1883.
+1710240062: New client connected from 172.19.0.3:48505 as auto-6DCAB47C-D4AD-C787-8738-3FD405F08405 (p2, c1, k60).
+1710240165: Client auto-6DCAB47C-D4AD-C787-8738-3FD405F08405 closed its connection.
+1710240169: New connection from 172.19.0.3:41869 on port 1883.
+1710240169: New client connected from 172.19.0.3:41869 as auto-E8EB65B0-3199-11DD-79C8-2A1D473A0CDF (p2, c1, k60).
+1710240315: Client auto-E8EB65B0-3199-11DD-79C8-2A1D473A0CDF has exceeded timeout, disconnecting.
+1710240628: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710240725: mosquitto version 2.0.18 terminating
+1710240725: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710240773: mosquitto version 2.0.18 starting
+1710240773: Config loaded from /mosquitto/config/mosquitto.conf.
+1710240773: Opening ipv4 listen socket on port 1883.
+1710240773: Opening ipv6 listen socket on port 1883.
+1710240773: mosquitto version 2.0.18 running
+1710240774: New connection from 172.19.0.1:58830 on port 1883.
+1710240774: New client connected from 172.19.0.1:58830 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710240776: New connection from 172.19.0.3:35345 on port 1883.
+1710240776: New client connected from 172.19.0.3:35345 as auto-26ED4A46-4725-0E5F-6988-3EB53DC8B28D (p2, c1, k60).
+1710240899: Client auto-26ED4A46-4725-0E5F-6988-3EB53DC8B28D has exceeded timeout, disconnecting.
+1710240904: mosquitto version 2.0.18 terminating
+1710240904: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710240948: mosquitto version 2.0.18 starting
+1710240948: Config loaded from /mosquitto/config/mosquitto.conf.
+1710240948: Opening ipv4 listen socket on port 1883.
+1710240948: Opening ipv6 listen socket on port 1883.
+1710240948: mosquitto version 2.0.18 running
+1710240949: New connection from 172.19.0.1:39650 on port 1883.
+1710240949: New client connected from 172.19.0.1:39650 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710240951: New connection from 172.19.0.3:55247 on port 1883.
+1710240951: New client connected from 172.19.0.3:55247 as auto-3D9A1390-6060-B02B-D380-1822A095F5F9 (p2, c1, k60).
+1710240951: New connection from 172.19.0.3:36665 on port 1883.
+1710240951: New client connected from 172.19.0.3:36665 as auto-4A868D53-AD96-9CC4-3F79-2603D03A61F6 (p2, c1, k60).
+1710241057: mosquitto version 2.0.18 terminating
+1710241057: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710241100: mosquitto version 2.0.18 starting
+1710241100: Config loaded from /mosquitto/config/mosquitto.conf.
+1710241100: Opening ipv4 listen socket on port 1883.
+1710241100: Opening ipv6 listen socket on port 1883.
+1710241100: mosquitto version 2.0.18 running
+1710241101: New connection from 172.19.0.1:46634 on port 1883.
+1710241101: New client connected from 172.19.0.1:46634 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710241104: New connection from 172.19.0.3:38261 on port 1883.
+1710241104: New client connected from 172.19.0.3:38261 as auto-A2841B52-3D34-D01E-9E0B-0346DAD97521 (p2, c1, k60).
+1710241104: New connection from 172.19.0.3:58359 on port 1883.
+1710241104: New client connected from 172.19.0.3:58359 as auto-D6F5D0A0-3DEA-1119-5F12-33BE1D8FB328 (p2, c1, k60).
+1710241256: Client auto-A2841B52-3D34-D01E-9E0B-0346DAD97521 has exceeded timeout, disconnecting.
+1710241287: Client auto-D6F5D0A0-3DEA-1119-5F12-33BE1D8FB328 closed its connection.
+1710241292: mosquitto version 2.0.18 terminating
+1710241292: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710241339: mosquitto version 2.0.18 starting
+1710241339: Config loaded from /mosquitto/config/mosquitto.conf.
+1710241339: Opening ipv4 listen socket on port 1883.
+1710241339: Opening ipv6 listen socket on port 1883.
+1710241339: mosquitto version 2.0.18 running
+1710241339: New connection from 172.19.0.1:42860 on port 1883.
+1710241339: New client connected from 172.19.0.1:42860 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710241341: New connection from 172.19.0.3:45507 on port 1883.
+1710241341: New client connected from 172.19.0.3:45507 as auto-0C17538F-26DD-2589-C2D7-361C9EF4A26D (p2, c1, k60).
+1710241341: New connection from 172.19.0.3:45305 on port 1883.
+1710241341: New client connected from 172.19.0.3:45305 as auto-CF516BE2-EDCA-7E2D-1EE6-6F9E5B1F7B2E (p2, c1, k60).
+1710241458: Client auto-0C17538F-26DD-2589-C2D7-361C9EF4A26D has exceeded timeout, disconnecting.
+1710241741: mosquitto version 2.0.18 terminating
+1710241741: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710241804: mosquitto version 2.0.18 starting
+1710241804: Config loaded from /mosquitto/config/mosquitto.conf.
+1710241804: Opening ipv4 listen socket on port 1883.
+1710241804: Opening ipv6 listen socket on port 1883.
+1710241804: mosquitto version 2.0.18 running
+1710241804: New connection from 172.19.0.1:40706 on port 1883.
+1710241804: New client connected from 172.19.0.1:40706 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710241807: New connection from 172.19.0.3:36869 on port 1883.
+1710241807: New client connected from 172.19.0.3:36869 as auto-6C2C17FD-0ABF-85B6-3830-54203B7F638E (p2, c1, k60).
+1710241807: New connection from 172.19.0.3:42997 on port 1883.
+1710241807: New client connected from 172.19.0.3:42997 as auto-E827B86B-3926-8E54-EA44-8DDC490CBF43 (p2, c1, k60).
+1710241924: Client auto-6C2C17FD-0ABF-85B6-3830-54203B7F638E has exceeded timeout, disconnecting.
+1710242033: mosquitto version 2.0.18 terminating
+1710242033: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710242080: mosquitto version 2.0.18 starting
+1710242080: Config loaded from /mosquitto/config/mosquitto.conf.
+1710242080: Opening ipv4 listen socket on port 1883.
+1710242080: Opening ipv6 listen socket on port 1883.
+1710242080: mosquitto version 2.0.18 running
+1710242080: New connection from 172.19.0.1:60216 on port 1883.
+1710242080: New client connected from 172.19.0.1:60216 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710242083: New connection from 172.19.0.3:34979 on port 1883.
+1710242083: New client connected from 172.19.0.3:34979 as auto-3E91F7F0-72A0-8F6B-37D2-C04B312C2E7D (p2, c1, k60).
+1710242083: New connection from 172.19.0.3:59597 on port 1883.
+1710242083: New client connected from 172.19.0.3:59597 as auto-594C38ED-5713-DC12-A3AB-78C7F40648F7 (p2, c1, k60).
+1710242199: Client auto-3E91F7F0-72A0-8F6B-37D2-C04B312C2E7D has exceeded timeout, disconnecting.
+1710242345: mosquitto version 2.0.18 terminating
+1710242345: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710242395: mosquitto version 2.0.18 starting
+1710242395: Config loaded from /mosquitto/config/mosquitto.conf.
+1710242395: Opening ipv4 listen socket on port 1883.
+1710242395: Opening ipv6 listen socket on port 1883.
+1710242395: mosquitto version 2.0.18 running
+1710242395: New connection from 172.19.0.1:49224 on port 1883.
+1710242395: New client connected from 172.19.0.1:49224 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710242401: New connection from 172.19.0.3:42053 on port 1883.
+1710242401: New client connected from 172.19.0.3:42053 as auto-292D5527-BFE5-6C64-2F01-5E920D655E17 (p2, c1, k60).
+1710242401: New connection from 172.19.0.3:56193 on port 1883.
+1710242401: New client connected from 172.19.0.3:56193 as auto-80481FDF-B213-6A35-EA98-EC73A46F2482 (p2, c1, k60).
+1710242521: mosquitto version 2.0.18 terminating
+1710242521: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710242563: mosquitto version 2.0.18 starting
+1710242563: Config loaded from /mosquitto/config/mosquitto.conf.
+1710242563: Opening ipv4 listen socket on port 1883.
+1710242563: Opening ipv6 listen socket on port 1883.
+1710242563: mosquitto version 2.0.18 running
+1710242564: New connection from 172.19.0.1:33876 on port 1883.
+1710242564: New client connected from 172.19.0.1:33876 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710242566: New connection from 172.19.0.3:37597 on port 1883.
+1710242566: New client connected from 172.19.0.3:37597 as auto-44177704-B161-35D2-0553-B699E75DDC73 (p2, c1, k60).
+1710243028: mosquitto version 2.0.18 terminating
+1710243028: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710243061: mosquitto version 2.0.18 starting
+1710243061: Config loaded from /mosquitto/config/mosquitto.conf.
+1710243061: Opening ipv4 listen socket on port 1883.
+1710243061: Opening ipv6 listen socket on port 1883.
+1710243061: mosquitto version 2.0.18 running
+1710243062: New connection from 172.19.0.1:57486 on port 1883.
+1710243062: New client connected from 172.19.0.1:57486 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710243064: New connection from 172.19.0.3:52229 on port 1883.
+1710243064: New client connected from 172.19.0.3:52229 as auto-A6427B43-3CBF-40D2-9E5F-DF2B9E07DEE3 (p2, c1, k60).
+1710243483: mosquitto version 2.0.18 terminating
+1710243483: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710243516: mosquitto version 2.0.18 starting
+1710243516: Config loaded from /mosquitto/config/mosquitto.conf.
+1710243516: Opening ipv4 listen socket on port 1883.
+1710243516: Opening ipv6 listen socket on port 1883.
+1710243516: mosquitto version 2.0.18 running
+1710243517: New connection from 172.19.0.1:39484 on port 1883.
+1710243517: New client connected from 172.19.0.1:39484 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710243521: New connection from 172.19.0.3:33597 on port 1883.
+1710243521: New client connected from 172.19.0.3:33597 as auto-608D315D-C1FD-FF2A-645C-86DFA927F81F (p2, c1, k60).
+1710243716: mosquitto version 2.0.18 terminating
+1710243716: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710243748: mosquitto version 2.0.18 starting
+1710243748: Config loaded from /mosquitto/config/mosquitto.conf.
+1710243748: Opening ipv4 listen socket on port 1883.
+1710243748: Opening ipv6 listen socket on port 1883.
+1710243748: mosquitto version 2.0.18 running
+1710243749: New connection from 172.19.0.1:45340 on port 1883.
+1710243749: New client connected from 172.19.0.1:45340 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710243751: New connection from 172.19.0.3:54945 on port 1883.
+1710243751: New client connected from 172.19.0.3:54945 as auto-CB83B412-F8A4-A162-6BEE-392AF42814B8 (p2, c1, k60).
+1710244034: mosquitto version 2.0.18 terminating
+1710244034: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710244068: mosquitto version 2.0.18 starting
+1710244068: Config loaded from /mosquitto/config/mosquitto.conf.
+1710244068: Opening ipv4 listen socket on port 1883.
+1710244068: Opening ipv6 listen socket on port 1883.
+1710244068: mosquitto version 2.0.18 running
+1710244068: New connection from 172.19.0.1:46224 on port 1883.
+1710244068: New client connected from 172.19.0.1:46224 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710244071: New connection from 172.19.0.3:56001 on port 1883.
+1710244071: New client connected from 172.19.0.3:56001 as auto-2EEE9478-0FB4-3211-2DF8-171B6C8A363B (p2, c1, k60).
+1710244292: mosquitto version 2.0.18 terminating
+1710244292: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710244330: mosquitto version 2.0.18 starting
+1710244330: Config loaded from /mosquitto/config/mosquitto.conf.
+1710244330: Opening ipv4 listen socket on port 1883.
+1710244330: Opening ipv6 listen socket on port 1883.
+1710244330: mosquitto version 2.0.18 running
+1710244330: New connection from 172.19.0.1:59714 on port 1883.
+1710244330: New client connected from 172.19.0.1:59714 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710244333: New connection from 172.19.0.3:49891 on port 1883.
+1710244333: New client connected from 172.19.0.3:49891 as auto-AECE9B6D-58CC-ADE8-B6E9-655CDE910824 (p2, c1, k60).
+1710244992: mosquitto version 2.0.18 terminating
+1710244992: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710245029: mosquitto version 2.0.18 starting
+1710245029: Config loaded from /mosquitto/config/mosquitto.conf.
+1710245029: Opening ipv4 listen socket on port 1883.
+1710245029: Opening ipv6 listen socket on port 1883.
+1710245029: mosquitto version 2.0.18 running
+1710245030: New connection from 172.19.0.1:41702 on port 1883.
+1710245030: New client connected from 172.19.0.1:41702 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710245034: New connection from 172.19.0.3:52687 on port 1883.
+1710245034: New client connected from 172.19.0.3:52687 as auto-7F9F96B4-2949-0E6A-09B0-BC569320DEF0 (p2, c1, k60).
+1710245095: Client auto-7F9F96B4-2949-0E6A-09B0-BC569320DEF0 closed its connection.
+1710245097: mosquitto version 2.0.18 terminating
+1710245097: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710245237: mosquitto version 2.0.18 starting
+1710245237: Config loaded from /mosquitto/config/mosquitto.conf.
+1710245237: Opening ipv4 listen socket on port 1883.
+1710245237: Opening ipv6 listen socket on port 1883.
+1710245237: mosquitto version 2.0.18 running
+1710245238: New connection from 172.19.0.1:45096 on port 1883.
+1710245238: New client connected from 172.19.0.1:45096 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710245240: New connection from 172.19.0.3:60067 on port 1883.
+1710245240: New client connected from 172.19.0.3:60067 as auto-9BF5D67D-F66F-3AF0-3E0A-D1F1A70AC036 (p2, c1, k60).
+1710245538: mosquitto version 2.0.18 terminating
+1710245538: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710245573: mosquitto version 2.0.18 starting
+1710245573: Config loaded from /mosquitto/config/mosquitto.conf.
+1710245573: Opening ipv4 listen socket on port 1883.
+1710245573: Opening ipv6 listen socket on port 1883.
+1710245573: mosquitto version 2.0.18 running
+1710245573: New connection from 172.19.0.1:51670 on port 1883.
+1710245573: New client connected from 172.19.0.1:51670 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710245576: New connection from 172.19.0.3:44787 on port 1883.
+1710245576: New client connected from 172.19.0.3:44787 as auto-78898DC7-A9F8-7507-404E-D6C9F48B0BA7 (p2, c1, k60).
+1710245734: mosquitto version 2.0.18 terminating
+1710245734: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710245774: mosquitto version 2.0.18 starting
+1710245774: Config loaded from /mosquitto/config/mosquitto.conf.
+1710245774: Opening ipv4 listen socket on port 1883.
+1710245774: Opening ipv6 listen socket on port 1883.
+1710245774: mosquitto version 2.0.18 running
+1710245774: New connection from 172.19.0.1:45962 on port 1883.
+1710245774: New client connected from 172.19.0.1:45962 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710245777: New connection from 172.19.0.3:45099 on port 1883.
+1710245777: New client connected from 172.19.0.3:45099 as auto-4FF5017D-03B4-A3FD-E616-828CAE2964C6 (p2, c1, k60).
+1710245920: mosquitto version 2.0.18 terminating
+1710245920: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710246017: mosquitto version 2.0.18 starting
+1710246017: Config loaded from /mosquitto/config/mosquitto.conf.
+1710246017: Opening ipv4 listen socket on port 1883.
+1710246017: Opening ipv6 listen socket on port 1883.
+1710246017: mosquitto version 2.0.18 running
+1710246018: New connection from 172.19.0.1:45714 on port 1883.
+1710246018: New client connected from 172.19.0.1:45714 as mqtt-explorer-01888b35 (p2, c1, k60).
+1710246021: New connection from 172.19.0.3:35713 on port 1883.
+1710246021: New client connected from 172.19.0.3:35713 as auto-ED8089B4-0DBD-4656-68D1-D2EAD72AC5E8 (p2, c1, k60).
+1710246121: Outgoing messages are being dropped for client auto-ED8089B4-0DBD-4656-68D1-D2EAD72AC5E8.
+1710246215: Client auto-ED8089B4-0DBD-4656-68D1-D2EAD72AC5E8 has exceeded timeout, disconnecting.
+1710247818: Saving in-memory database to /mosquitto/data//mosquitto.db.
